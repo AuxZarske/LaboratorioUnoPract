@@ -1,0 +1,4 @@
+FROM openjd
+COPY . /usr/src/server
+EXPOSE 7000
+ENTRYPOINT ["java", "-jar", "src/Servidor.jar"]

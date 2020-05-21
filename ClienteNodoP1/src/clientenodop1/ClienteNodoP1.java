@@ -30,9 +30,10 @@ public class ClienteNodoP1 {
         var ip= args[2];
         var puerto = Integer.parseInt(args[3]);
         
-       
+        
         
         try {
+            System.out.println(nombre + velocidad + ip + puerto);
             Socket soc = new Socket("localhost", puerto); //cambiar localhost por la variable ip
             OutputStream os = soc.getOutputStream();
             ObjectOutput o = new ObjectOutputStream(os);
@@ -51,6 +52,7 @@ public class ClienteNodoP1 {
                 //enviar desconectado con nombre
                 o.close();
                 soc.close();
+                
             }
             
             

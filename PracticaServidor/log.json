@@ -1,0 +1,122 @@
+[
+  {
+    "node": "nodo1",
+    "hash": "ede0e36f629698336d73577ad008b02f1f618c97cc0b16e9ffab11146b9128e5",
+    "time": 64,
+    "bandwidth": 72
+  },
+  {
+    "node": "nodo1",
+    "hash": "c055f283e6eee799bfc322e98ac06c7269c0a219d3dc27fac6cfd99020a1d73b",
+    "time": 2,
+    "bandwidth": 72
+  },
+  {
+    "node": "nodo1",
+    "hash": "b00a45a498eb97fc88ccbcdf70aef190ee102f1f41a5a5239785ee7fd6ccf0a7",
+    "time": 1,
+    "bandwidth": 72
+  },
+  {
+    "node": "nodo1",
+    "hash": "da3a8cf984ece761430f8db2f4c90ac6b4c20ef146792b56a7916cb7bc74e07f",
+    "time": 1,
+    "bandwidth": 72
+  },
+  {
+    "node": "nodo1",
+    "hash": "fdb8ab6250db7fec542f609cc3d809b3bd4201d969b864dc8fc5942d8d07b221",
+    "time": 2,
+    "bandwidth": 72
+  },
+  {
+    "node": "nodo1",
+    "hash": "fd64dd67787de4ce4772eb75a9b6f7227fc6e9ae074b4acba6a1b0d4af8d5703",
+    "time": 2,
+    "bandwidth": 72
+  },
+  {
+    "node": "nodo1",
+    "hash": "c46443927e05291b4e588e56f314e74eacf3ab58382c21d500676ea0419f8476",
+    "time": 1,
+    "bandwidth": 72
+  },
+  {
+    "node": "nodo1",
+    "hash": "1ee3f1d1a7aa71d7d057ac7d2f5076ca802c4b575615807bfdfdcbf24db7bb8e",
+    "time": 1,
+    "bandwidth": 72
+  },
+  {
+    "node": "nodo1",
+    "hash": "a12083f4157da2744d337bf9f5d11f4898848e58f9c1e2eb8b59f03baf694eae",
+    "time": 1,
+    "bandwidth": 72
+  },
+  {
+    "node": "nodo1",
+    "hash": "abb894a48ccbd7450c7aafb76fcc3d2625fbb0f46c5115c9763a25997bf9c70d",
+    "time": 1,
+    "bandwidth": 72
+  },
+  {
+    "node": "nodo2",
+    "hash": "4d4f971bb15a49afe5e83d71e7e003d1b4538a8a5a7fe068483f9f349ce6e217",
+    "time": 57,
+    "bandwidth": 72
+  },
+  {
+    "node": "nodo2",
+    "hash": "dbdc02d362b36aea65362ac45f89f35ece8b717dec95c05bc059302a52747e62",
+    "time": 1,
+    "bandwidth": 72
+  },
+  {
+    "node": "nodo2",
+    "hash": "cee9b7f3ddc577de9014ea7a467369e56c5af168e7619f7da018aa8f8bc2604a",
+    "time": 2,
+    "bandwidth": 72
+  },
+  {
+    "node": "nodo2",
+    "hash": "26eb35646b3b34dcedb208cb3d2d8d2080b6c658ce0b6ebc8fd6fdeb29388e4c",
+    "time": 1,
+    "bandwidth": 72
+  },
+  {
+    "node": "nodo2",
+    "hash": "bf0768387fbf84b8c8075fb670f89599e1ecf17d18f8cea050e6eb0bec856d1d",
+    "time": 1,
+    "bandwidth": 72
+  },
+  {
+    "node": "nodo2",
+    "hash": "bb7e2885bc809571b0b618c0c1b7de7d8746fe4f21972301a13ba95f1b4786bf",
+    "time": 2,
+    "bandwidth": 72
+  },
+  {
+    "node": "nodo2",
+    "hash": "f4c65342ae54f4001ff1afaed985dd1cb2c0c24673e473fb987918e4beadc51a",
+    "time": 2,
+    "bandwidth": 72
+  },
+  {
+    "node": "nodo2",
+    "hash": "985c7d06bf7c3b66136097ea364d1d266f3969c933783de4a416b49115ef329d",
+    "time": 1,
+    "bandwidth": 72
+  },
+  {
+    "node": "nodo2",
+    "hash": "d2d129099bd65b3541a0e244f45b2e18334d49fa4748d8b61ef478b11ddcff85",
+    "time": 1,
+    "bandwidth": 72
+  },
+  {
+    "node": "nodo2",
+    "hash": "0cbad27f7697bc6eccd4aad1b5cec6e86b4433a1871eb1e8f64d0f36d5e5408a",
+    "time": 1,
+    "bandwidth": 72
+  }
+]

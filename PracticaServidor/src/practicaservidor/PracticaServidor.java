@@ -23,10 +23,12 @@ public class PracticaServidor {
         try {            
             // puerto
             int puerto = Integer.parseInt(args[0]);
+            
             // defino socket
             s = new ServerSocket(puerto);
             while (true) {
                 // espero y acepto una conex.
+                System.out.println("Servidor esperando conexiones");
                 Socket soc = s.accept();
                 //creo tarea, pongo en hilo, inicio hilo
                 Runnable tareaServer = new TareaEjec(soc);
